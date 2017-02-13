@@ -1,0 +1,24 @@
+v.2 changes
+Added hello_world.py 
+Added  variable.ipynb
+Edited Formatting.ipynb
+Edited Modules.ipynb
+Edited List.ipynb
+Added  List Comprehension.ipynb
+Edited if,elif,else Statements.ipynb
+v.3 changes
+Added String Manipulation.ipynb
+Added Dates.ipynb
+v.4 changes
+Added Reading CSV with Pandas.ipynb
+Added database.csv file
+Added sample.json file
+v.5 changes
+Added Regular Expression.ipynb
+Edited While Loop.ipynb
+v.6 changes
+Revised Reading CSV with Pandas.ipynb
+Added Series.ipynb
+Added Reading Excel.ipynb
+Edited Writng & Reading Files.ipynb 
+Added weather.ipynb 
